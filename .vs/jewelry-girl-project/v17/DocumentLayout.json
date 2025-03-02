@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\team-project\\unity\\jewelry-girl-project\\",
+  "WorkspaceRootPath": "D:\\Project\\Unity\\jewelry-girl-project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2AC89474-40FD-5910-D26A-1EA9A0B0D6F2}|Assembly-CSharp.csproj|e:\\team-project\\unity\\jewelry-girl-project\\assets\\newmonobehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AC89474-40FD-5910-D26A-1EA9A0B0D6F2}|Assembly-CSharp.csproj|solutionrelative:assets\\newmonobehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2AC89474-40FD-5910-D26A-1EA9A0B0D6F2}|Assembly-CSharp.csproj|d:\\project\\unity\\jewelry-girl-project\\assets\\scripts\\0 titlescene\\gametitlescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC89474-40FD-5910-D26A-1EA9A0B0D6F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\0 titlescene\\gametitlescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "NewMonoBehaviourScript.cs",
-              "DocumentMoniker": "E:\\team-project\\unity\\jewelry-girl-project\\Assets\\NewMonoBehaviourScript.cs",
-              "RelativeDocumentMoniker": "Assets\\NewMonoBehaviourScript.cs",
-              "ToolTip": "E:\\team-project\\unity\\jewelry-girl-project\\Assets\\NewMonoBehaviourScript.cs",
-              "RelativeToolTip": "Assets\\NewMonoBehaviourScript.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Title": "GameTitleScene.cs",
+              "DocumentMoniker": "D:\\Project\\Unity\\jewelry-girl-project\\Assets\\Scripts\\0 TitleScene\\GameTitleScene.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\0 TitleScene\\GameTitleScene.cs",
+              "ToolTip": "D:\\Project\\Unity\\jewelry-girl-project\\Assets\\Scripts\\0 TitleScene\\GameTitleScene.cs",
+              "RelativeToolTip": "Assets\\Scripts\\0 TitleScene\\GameTitleScene.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAArwKMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T13:14:32.107Z",
+              "WhenOpened": "2025-01-24T12:37:00.544Z",
               "EditorCaption": ""
             }
           ]
